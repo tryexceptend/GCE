@@ -1,0 +1,3 @@
+[submodule "GCECore"]
+	path = GCECore
+	url = https://github.com/tryexceptend/GCECore.git
